@@ -11,7 +11,7 @@
 	using System.Net.Http;
 
 	internal class Program
-    {
+	{
 		public static async Task Main(string[] args)
 		{
 			Console.WriteLine(".NET Version: " + Environment.Version);
@@ -51,5 +51,5 @@
 				Console.WriteLine(ex.ToString());
 			}
 		}
-    }
+	}
 }

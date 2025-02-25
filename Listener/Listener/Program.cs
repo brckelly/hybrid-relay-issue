@@ -9,7 +9,7 @@
 	using System.Net.Http.Json;
 
 	internal class Program
-    {
+	{
 		public static async Task Main(string[] args)
 		{
 			Console.WriteLine(".NET Version: " + Environment.Version);
